@@ -5,16 +5,16 @@
         "hunt": {
             "enabled": true,
             "cooldown": [
-                15,
-                17
+                12,
+                13
             ],
             "useShortForm": true
         },
         "battle": {
             "enabled": true,
             "cooldown": [
-                15,
-                17
+                12,
+                13
             ],
             "useShortForm": true
         },
@@ -51,7 +51,7 @@
             ]
         },
         "pray": {
-            "enabled": false,
+            "enabled": true,
             "cooldown": [
                 310,
                 400
@@ -98,7 +98,7 @@
             ]
         },
         "owo": {
-            "enabled": true,
+            "enabled": false,
             "cooldown": [
                 10,
                 13
@@ -241,7 +241,7 @@
     
     "autoUse": {
         "gems": {
-            "enabled": false,
+            "enabled": true,
             "order": {
                 "lowestToHighest": true
             },
@@ -261,7 +261,7 @@
                 "specialGem": false
             }
         },
-        "autoLootbox": false,
-        "autoCrate": false
+        "autoLootbox": true,
+        "autoCrate": true
     }
 }
