@@ -1,4 +1,4 @@
-token1 channel_id1
+MTM4MTQ1ODgzNDk0OTY3Mjk2MA.G1pp5y.FDOZ1k9UT5p233r68bhDzhnt2NBxXOMSI_tY3I 1396681719423434957
 token2 channel_id2
 token3 channel_id3
 
